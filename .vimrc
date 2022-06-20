@@ -12,6 +12,10 @@ colorscheme dracula
 
 set number
 set noshowmode
+set expandtab
+set ignorecase
+set smartcase
+set incsearch
 set tabstop=4
 set laststatus=2
 

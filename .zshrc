@@ -104,3 +104,4 @@ source $ZSH/oh-my-zsh.sh
 alias ls="ls -lA --color=auto"
 alias config="/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME"
 
+export TERM=xterm-256color
